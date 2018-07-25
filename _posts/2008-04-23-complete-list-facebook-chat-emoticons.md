@@ -44,6 +44,7 @@ So with the help of Safari and some javascript hacking I present to you a comple
 <dt><img src="http://static.ak.fbcdn.net/images/emote/42.gif" /> 42</dt><dd>:42:</dd>
 <dt><img src="/static/media/images/fb_emotes/fb_thumb.png" /> Thumb</dt><dd>(Y) (y)</dd>
 </dl>
+<div style="clear:both"></div>
 
 
 Some Facebook users have created their own emoticons for Facebook chat. They are created by setting up a user in Facebook with the emoticon set as the user profile image and using the square brackets to embed them in a chat. E.g: My profile image can be embedded in a chat using <code>[[caleb.brown]]</code>.
