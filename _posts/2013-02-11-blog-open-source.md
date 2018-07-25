@@ -1,5 +1,5 @@
 ---
-title: Blog Code Now Open Sourced
+title: "Blog Code Now Open Sourced"
 date: 2013-02-11 22:45:00 +1100
 tags: [ tech, meta ]
 redirect_from:

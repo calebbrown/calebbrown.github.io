@@ -1,5 +1,5 @@
 ---
-title: If it ain't broken...
+title: "If it ain't broken..."
 tags: meta
 date: 2012-06-28 21:31:00 +1000
 redirect_from:
