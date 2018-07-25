@@ -2,7 +2,6 @@
 title: "Prime Time God Talk"
 date: 2007-05-20 22:55:09 +1000
 tags: legacy
-layout: post
 redirect_from:
  - /blog/2007/05/prime-time-god-talk
  - /blog/prime-time-god-talk
