@@ -19,10 +19,10 @@ After getting the new box home I took some measurements and made some calculatio
 
 <table style="margin: 0px auto; border: none">
 <tr><td></td><th>Old box</th><th>New box</th><th>Change</th></tr>
-<tr><th>Height</th><td>25mm</th><td>28mm</td><td>+3mm (12%)</td></tr>
+<tr><th>Height</th><td>25mm</td><td>28mm</td><td>+3mm (12%)</td></tr>
 <tr><th>Width</th><td>120mm</td><td>120mm</td><td>0</td></tr>
-<tr><th>Depth</th><td>55mm</td><td>75mm</td><td>+20mm (36%)</td>
-</tr><tr style="border-top:1px solid black"><th>Volume</th><td>165cm<sup>3</sup></td><td>252cm<sup>3</sup></td><td>+87cm<sup>3</sup> (52%)</td></tr>
+<tr><th>Depth</th><td>55mm</td><td>75mm</td><td>+20mm (36%)</td></tr>
+<tr style="border-top:1px solid black"><th>Volume</th><td>165cm<sup>3</sup></td><td>252cm<sup>3</sup></td><td>+87cm<sup>3</sup> (52%)</td></tr>
 </table>
 
 So the new box is more than 50% larger than the old one - or to put it another way, I could fit one and half of the old boxes inside the new one.
