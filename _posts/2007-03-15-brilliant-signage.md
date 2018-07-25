@@ -1,0 +1,31 @@
+---
+title: "brilliant signage"
+date: 2007-03-15 10:26:18 +1100
+tags: legacy
+redirect_from:
+ - /blog/2007/03/brilliant-signage
+ - /blog/brilliant-signage
+---
+
+I was driving to work today and I was again impressed with the quality of work being done by the RTA.
+
+
+
+One of the programmable overhead signs read as follows:
+
+
+
+<blockquote>
+
+ACCIDENT AHEAD, LANE CLOSED
+
+PREPARE TO MERGE
+
+>>>>>>>>LEFT>>>>>>>>
+
+</blockquote>
+
+
+
+Obviously they were thinking of the other left.
+
