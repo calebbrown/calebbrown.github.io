@@ -8,3 +8,6 @@ defaults:
    values:
      images: true
 
+plugins:
+ - jekyll-redirect-from
+
