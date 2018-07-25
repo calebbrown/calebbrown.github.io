@@ -9,7 +9,4 @@ redirect_from:
 
 South East Asia, USA, Chile, Mexico, Belize, Guatemala, Ecuador, Peru.
 
-
-
 So good.
-

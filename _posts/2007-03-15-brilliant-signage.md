@@ -9,23 +9,12 @@ redirect_from:
 
 I was driving to work today and I was again impressed with the quality of work being done by the RTA.
 
-
-
 One of the programmable overhead signs read as follows:
 
-
-
 <blockquote>
-
 ACCIDENT AHEAD, LANE CLOSED
-
 PREPARE TO MERGE
-
 >>>>>>>>LEFT>>>>>>>>
-
 </blockquote>
 
-
-
 Obviously they were thinking of the other left.
-

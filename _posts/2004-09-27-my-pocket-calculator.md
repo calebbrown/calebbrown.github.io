@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 <a href="http://www.webcalc.net/index.php">this</a> would have to be the most useful site on the internet.
-

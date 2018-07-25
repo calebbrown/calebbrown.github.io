@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 I am so buying <a href="http://www.thinkgeek.com/homeoffice/gear/86dd/" title="Voodoo Knife Set">this</a> with my next <a href="http://www.thinkgeek.com/">ThinkGeek</a> order.
-

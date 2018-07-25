@@ -9,17 +9,9 @@ redirect_from:
 
 We have a rabbit eating grass in our backyard. Its white with evil red eyes.
 
-
-
 .....
-
-
 
 I wonder if it tastes good? Mmm, rabbit meat...
 
 
-
-
-
 Maybe I'll keep it - it might keep the grass short.
-

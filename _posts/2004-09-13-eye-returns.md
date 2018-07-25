@@ -9,7 +9,4 @@ redirect_from:
 
 Today I forked out for some hosting.
 
-
-
 The images are back.
-

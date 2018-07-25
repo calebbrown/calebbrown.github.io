@@ -9,11 +9,6 @@ redirect_from:
 
 I had INXS - By My Side play minutes after receiving an email from NRMA.
 
-
-
 Coincidence?
 
-
-
 I think not.
-

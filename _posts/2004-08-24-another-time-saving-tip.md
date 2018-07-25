@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 Stumbled across <a href="http://www.howtofoldashirt.net/">this</a>. For all you people who spend hours folding clothes, this could free up a lot of your time.
-

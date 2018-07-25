@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 For those of you who think <a href="http://www.talklikeapirate.com/">talking like a pirate</a> is a bit lame because you think <a href="http://www.jinx.com/scripts/details.asp?productID=513">ninjas are way cooler than pirates</a>, then you'd probably prefer <a href="http://www.dayoftheninja.com">day of the ninja</a>, which incidentally is tomorrow, the 5th of December.
-

@@ -8,16 +8,9 @@ redirect_from:
 ---
 
 After missing the pilot we meet our intrepid adventurer continuing his quest for emancipation from the restrictive family environment he lives in.
-
 Having failed dismally at moving out of home, Caleb tries another avenue for approaching his goal...
-
 <hr/>
-
-
 
 Well pending a few variables I could have the penultimate piece of my plan for independance.
 
-
-
 In a similar fashion to the bungled house moving attempt, earlier this week I received a forward of an email advertising the sale of a well loved, soon to be [... missing]
-

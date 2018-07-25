@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 <a href="http://picasaweb.google.co.uk/calebbrown01/SouthAmerica2007/photo#5096534419089591058"><img src="http://lh3.google.co.uk/calebbrown01/RrqHDTNjCxI/AAAAAAAAAvE/IlYYSxpLJws/s288/IMG_3288.JPG" /></a>
-

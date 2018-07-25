@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 Hmm, maybe with <a href="http://www.linguasaver.com">this</a> I may one day fulfill my dream of speaking fluent german. Its a pity it doesn't pronounce the phrases for me.
-

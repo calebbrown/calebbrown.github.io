@@ -9,7 +9,4 @@ redirect_from:
 
 ... you've had a coffee and a coke within the first hour of being at work and you spend your work typing on a computer and you wake up with a sore hand from the masonry drilling you did at 1am the night before.
 
-
-
 I think I might be getting a bit old for such reckless activities.
-

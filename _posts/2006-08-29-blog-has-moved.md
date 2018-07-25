@@ -9,7 +9,4 @@ redirect_from:
 
 Finally I have moved my blog from blogger to drupal. I still have to add tags and clean up the comments, but otherwise its functional.
 
-
-
 Enjoy
-
