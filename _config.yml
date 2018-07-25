@@ -3,3 +3,8 @@ defaults:
     path: "static"
    values:
      images: true
+ - scope:
+    path: "images"
+   values:
+     images: true
+
