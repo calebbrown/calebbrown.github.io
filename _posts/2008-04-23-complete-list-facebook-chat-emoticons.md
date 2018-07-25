@@ -7,7 +7,7 @@ redirect_from:
  - /blog/complete-list-facebook-chat-emoticons
 ---
 
-While playing with Facebook Chat I wondered if it supported emoticons. Turns out it does. But when I tried the >:-) emoticon (a 'devil') and saw it printed as boring text, I wondered, "what smilies does facebook actually support?"
+While playing with Facebook Chat I wondered if it supported emoticons. Turns out it does. But when I tried the &gt;:-) emoticon (a 'devil') and saw it printed as boring text, I wondered, "what smilies does facebook actually support?"
 
 So with the help of Safari and some javascript hacking I present to you a complete list of facebook emoticons.
 
@@ -45,19 +45,6 @@ So with the help of Safari and some javascript hacking I present to you a comple
 <dt><img src="/static/media/images/fb_emotes/fb_thumb.png" /> Thumb</dt><dd>(Y) (y)</dd>
 </dl>
 
-<div class"fb-inline-ad" style="float:left; width:39%; text-align: right">
-<script type="text/javascript"><!--
-google_ad_client = "pub-6287545980530563";
-/* cc_fb_right_tall */
-google_ad_slot = "2657368855";
-google_ad_width = 120;
-google_ad_height = 240;
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</div>
-<div style="clear:both"></div>
-<!--break-->
-
 
 Some Facebook users have created their own emoticons for Facebook chat. They are created by setting up a user in Facebook with the emoticon set as the user profile image and using the square brackets to embed them in a chat. E.g: My profile image can be embedded in a chat using <code>[[caleb.brown]]</code>.
 
@@ -69,32 +56,19 @@ Here is a collection of some emoticons that are created using user profile image
 <dl class="fb-emote-list-middle" style="float:left; width:20%">
 <dt><img src="/static/media/images/fb_emotes/fb_midfing.png" /> Middle Finger</dt><dd>[[midfing]]</dd>
 </dl>
-
 <div style="clear:both"></div>
+
 Enjoy.
 
 <br/><br/>
 
-<div style="text-align:center;">
-<script type="text/javascript"><!--
-google_ad_client = "pub-6287545980530563";
-/* cc_fb_footer_wide */
-google_ad_slot = "0833161645";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
+Updates:
 
-<br/>
-<br/><b>Updated 21 July 2008:</b>
-Moved B-) and B) from sunglasses to glasses and cleaned up formatting.
-<br/><b>Updated 20 November 2008:</b> Fixed spelling of tongue.
-<br/><b>Updated 18 May 2009:</b> Added the Shark.
-<br/><b>Updated 21 September 2009:</b> Added the Penguin. Thanks to everyone who let me know in the comments.
-<br/><b>Updated 3 February 2010:</b> Added the 42.
-<br/><b>Updated 8 May 2012:</b> Added the (Y).
-<br/><b>Updated 28 November 2012:</b> Added a section about user built emoticons and added some examples: [[roxsign]] and [[midfing]] (thanks <a href="https://twitter.com/RachelWalker099/status/273532633001107456">@RachelWalker099</a>).
-<br/>
+ - <b>21 July 2008:</b> Moved B-) and B) from sunglasses to glasses and cleaned up formatting.
+ - <b>20 November 2008:</b> Fixed spelling of tongue.
+ - <b>18 May 2009:</b> Added the Shark.
+ - <b>21 September 2009:</b> Added the Penguin. Thanks to everyone who let me know in the comments.
+ - <b>3 February 2010:</b> Added the 42.
+ - <b>8 May 2012:</b> Added the (Y).
+ - <b>28 November 2012:</b> Added a section about user built emoticons and added some examples: [[roxsign]] and [[midfing]] (thanks <a href="https://twitter.com/RachelWalker099/status/273532633001107456">@RachelWalker099</a>).
+
