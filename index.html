@@ -2,12 +2,12 @@
 layout:default
 ---
 
-{% assign latest = site.posts.first %}
 <section id="latest-post">
   <header class="page-header">
     <h2>Latest Post</h2>
   </header>
   <article>
+    {% assign latest = site.posts.first %}
     <h1><a href="{{ latest.url }}">{{ latest.title }}</a> <small>{{ latest.date | date: "%e %B %Y" }}</small></h1>
 
   </article>
