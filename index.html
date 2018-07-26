@@ -1,0 +1,41 @@
+---
+layout:default
+---
+
+{% assign latest = site.posts.first %}
+<section id="latest-post">
+  <header class="page-header">
+    <h2>Latest Post</h2>
+  </header>
+  <article>
+    <h1><a href="{{ latest.url }}">{{ latest.title }}</a> <small>{{ latest.date | date: "%e %B %Y" }}</small></h1>
+    {% if latest.excerpt != "" %}
+      {{ latest.excerpt }}
+    {% else %}
+      {{ latest.content }}
+    {% endif %}
+
+  </article>
+  {% if latest.excerpt != "" %}
+  <a href="{{ latest.url }}">Read More...</a>
+  {% endif %}
+</section>
+
+<section id="more-posts">
+  <header class="page-header">
+    <h2>More Posts</h2>
+  </header>
+
+  <div class="row">
+    {% for post in site.posts offset:1 %}
+    <div class="span4{% unless forloop.first %} offset2{% endunless %}"><h3><a href="{{ post.url }}">{{ post.title }}</a></h3>{{ post.content | strip_html | truncate: 200 }} <a href="{{ post.url }}">more</a></div>
+    {% endfor %}
+  </div>
+
+  <div class="row">
+    <div class="span16">
+      <h3><a href="/blog">View All</a></h3>
+    </div>
+  </div>
+</section>
+
