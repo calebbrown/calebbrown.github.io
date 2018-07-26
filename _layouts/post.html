@@ -27,7 +27,7 @@ layout: default
       <ul class="unstyled">
         {% if page.next %}<li>Next: <a href="{{ page.next.url }}">{{ page.next.title }}</a></li>{% endif %}
         {% if page.previous %}<li>Previous: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>{% endif %}
-        {% assign latest = site.posts | pop %}
+        {% assign latest = site.posts.first %}
         {% if latest and page.id != latest.id %}<li>Latest: <a href="{{ latest.url }}">{{ latest.title }}</a></li>{% endif %}
         {% assign random = site.posts | sample %}
         {% if random %}<li>Random: <a href="{{ random.url }}">{{ random.title }}</a></li>{% endif %}
