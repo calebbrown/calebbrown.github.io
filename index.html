@@ -9,14 +9,10 @@ layout:default
   </header>
   <article>
     <h1><a href="{{ latest.url }}">{{ latest.title }}</a> <small>{{ latest.date | date: "%e %B %Y" }}</small></h1>
-    {% if latest.excerpt != "" %}
-      {{ latest.excerpt }}
-    {% else %}
       {{ latest.content }}
-    {% endif %}
 
   </article>
-  {% if latest.excerpt != "" %}
+  {% if false %}
   <a href="{{ latest.url }}">Read More...</a>
   {% endif %}
 </section>
