@@ -13,4 +13,5 @@ defaults:
 
 plugins:
  - jekyll-redirect-from
+ - jekyll-feed
 
