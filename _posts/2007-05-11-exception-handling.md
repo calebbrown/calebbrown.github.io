@@ -9,10 +9,10 @@ redirect_from:
 
 The digital age, with its intanets, computamigies and webs is now truly apart of our lives and we seem to be dealing alright with it. We do our homework on computers, we talk to friends on our mobile phones, and we cook our bread in computerised toasters.
 
-But despite our hard work digital doesn't really fit with humans. I think this comes down to two facts:<ol>
-<li>the digital age is inherently <a href="http://en.wikipedia.org/wiki/Discrete_mathematics">discrete</a> (mathematically) in its representation of things - it doesn't deal very well with <a href="http://en.wikipedia.org/wiki/Fuzzy_set">fuzzy areas</a>. e.g. when describing the <a href="http://www.bom.gov.au/weather/">weather</a> at what temperature does it go from being 'warm' to being 'cold'?</li>
-<li>it depends on software to be written thoroughly, with every possible exceptional circumstance taken into account, or failing nicely when something goes wrong - something rarely acheived. Every crash, or lost Word document is proof that this is the case</li>
-</ol>
+But despite our hard work digital doesn't really fit with humans. I think this comes down to two facts:
+
+ 1. the digital age is inherently <a href="http://en.wikipedia.org/wiki/Discrete_mathematics">discrete</a> (mathematically) in its representation of things - it doesn't deal very well with <a href="http://en.wikipedia.org/wiki/Fuzzy_set">fuzzy areas</a>. e.g. when describing the <a href="http://www.bom.gov.au/weather/">weather</a> at what temperature does it go from being 'warm' to being 'cold'?
+ 2. it depends on software to be written thoroughly, with every possible exceptional circumstance taken into account, or failing nicely when something goes wrong - something rarely acheived. Every crash, or lost Word document is proof that this is the case
 
 Because there is this disharmony between man and machine, there exist points where things can go wrong. As the digital machines are pushed to fit into a human world, all the exceptional circumstances that we happily tolerate need to be precisely defined and programmed into the machines. But there are many exceptions, and programmers really aren't that smart, so quite often these exceptions aren't handled correctly everywhere. These <i>bugs</i> usually sit dormant, waiting for an unsuspecting person to come along and enter the piece of information that causes the beast to fail.
 
