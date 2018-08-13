@@ -17,9 +17,9 @@ Having been to many events run for children in school years 4 to 12 I have bore 
 
 So to overcome this problem people should invest time into figuring out how an event is to be scored. The underlying principal that should be followed is this: <em>The scoring system must be such that if Team A performs well in round A and Team B performs badling in round A their scores should be close to equal after the subsequent round if in it Team A performs badly and Team B performs well</em>.
 
-There are two ways to ensure this principal is followed:<ol>
-<li><em>Make sure each round is worth the same number of points as the last</em>. This can be done by dividing the total number of points obtained by the total number of points that were obtainable for that round and multiplying it by the same constant for each round.</li>
-<li><em>Don't mix scoring styles</em>. Consistancy is the key. Make sure that you don't mix rounds that allow for all teams to obtain points (eg a round of trivia), with a rounds that end up with only one or two teams scoring points.</li>
-</ol>
+There are two ways to ensure this principal is followed:
+
+ 1. <em>Make sure each round is worth the same number of points as the last</em>. This can be done by dividing the total number of points obtained by the total number of points that were obtainable for that round and multiplying it by the same constant for each round.
+ 2. <em>Don't mix scoring styles</em>. Consistancy is the key. Make sure that you don't mix rounds that allow for all teams to obtain points (eg a round of trivia), with a rounds that end up with only one or two teams scoring points.
 
 One day I hope to see an end to improper scoring. If only everyone would take a moment to consider the impact it makes.

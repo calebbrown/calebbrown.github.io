@@ -13,7 +13,11 @@ This I don't have a problem with. I can live with my head being hairless (mind y
 
 Apparently according to the one web page I read on the subject (making me an expert) as you go bald your hair follicles get smaller and smaller until they stop making hair. While that happens each hair strand gets thinner. So I think these facts can be harnessed to design a way of quantifying the rate of hairloss.
 
-I reckon that the rate of hairloss can be determined by periodically measuring two things:<ol><li>follicle density - how many active hair follicles per cm<sup>2</sup>; and</li><li>hair strand weight - the diameter of the hair strand</li></ol>
+I reckon that the rate of hairloss can be determined by periodically measuring two things:
+
+ 1. follicle density - how many active hair follicles per cm<sup>2</sup>; and
+ 2. hair strand weight - the diameter of the hair strand
+
 I hypothesize that the rate is not linear and can be effected by environmental conditions. So to conduct a proper experim...
 
 Hang on, I think I might just spend more time searching the net. Despite all this talk I'm not going to conduct any research - I might as well just use someone elses.
