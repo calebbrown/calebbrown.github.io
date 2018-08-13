@@ -13,6 +13,6 @@ One of the programmable overhead signs read as follows:
 
 > ACCIDENT AHEAD, LANE CLOSED  
 > PREPARE TO MERGE  
-> >>>>>>>>LEFT>>>>>>>>
+> \>\>\>\>\>\>\>\>LEFT\>\>\>\>\>\>\>\>
 
 Obviously they were thinking of the other left.
