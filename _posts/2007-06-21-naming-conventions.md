@@ -25,4 +25,4 @@ Good names would avoid anything that slows down your typing. Things such as repe
 
 Perhaps it will get to the stage where people's names will be shortened and mangled on the internet just as the English language has. No longer will someone's name be 'Eugene', but 'Ujyn'; and 'Michael' would become 'Mykl'.
 
-Either way I'm sure it's going to get weirder.<div style="clear:right"></div><!--break-->
+Either way I'm sure it's going to get weirder.<!--break-->
