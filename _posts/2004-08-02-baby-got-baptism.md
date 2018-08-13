@@ -9,7 +9,10 @@ redirect_from:
 
 A slight delay in the proceedings. I was gonna write a large entry about <a href="http://objective.jesussave.us">this</a> site. But after trying to find some background information I decided enough commentary had been given on this site in journals, forums and blogs all over the net and it didn't need any more from me. Not only that but the site appears to be a joke, with only circumstancial connections to anything in meatspace (for example, all but one email address on the site is a freebe).
 
-The only two things I'll say about it though are this:<ol><li>whether or not the authors of the site intendend for their satire to have any useful impact on people, it did. Because it was so offensive to a <em>lot</em> of people huge numbers of religious conversations sprung up all over the net. Unfortunately they were often misguided, but just having people think about this sort of stuff is good.</li><li>There is a very funny entry in the <a href="http://objective.jesussave.us/pastorscorner.html">May 6th 2004, Pastor's Corner</a>. Basically a rewrite to the song <em>Baby Got Back</em> by Sir Mixalot called <em>Baby Got Baptism</em>.</li></ol>
+The only two things I'll say about it though are this:
+
+ 1. whether or not the authors of the site intendend for their satire to have any useful impact on people, it did. Because it was so offensive to a <em>lot</em> of people huge numbers of religious conversations sprung up all over the net. Unfortunately they were often misguided, but just having people think about this sort of stuff is good.
+ 2. There is a very funny entry in the <a href="http://objective.jesussave.us/pastorscorner.html">May 6th 2004, Pastor's Corner</a>. Basically a rewrite to the song <em>Baby Got Back</em> by Sir Mixalot called <em>Baby Got Baptism</em>.
 
 The other site I wanted to mention is called <a href="http://www.av1611.org/">Dial-the-Truth Ministries</a>. This site, unlike the previously mention one, appears to be quite serious.
 
