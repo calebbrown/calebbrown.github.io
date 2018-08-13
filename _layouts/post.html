@@ -29,8 +29,6 @@ layout: default
         {% if page.previous %}<li>Previous: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>{% endif %}
         {% assign latest = site.posts.first %}
         {% if latest and page.id != latest.id %}<li>Latest: <a href="{{ latest.url }}">{{ latest.title }}</a></li>{% endif %}
-        {% assign random = site.posts | sample %}
-        {% if random %}<li>Random: <a href="{{ random.url }}">{{ random.title }}</a></li>{% endif %}
       </ul>
 </section>
 

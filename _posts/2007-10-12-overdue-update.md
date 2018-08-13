@@ -23,16 +23,17 @@ Sunday was a good break from the busy Saturday. It was also good hearing Tim pre
 
 The next week, from Monday to Sunday, was consumed by the CEP mission week. One group went down to the city Temuco, and the other to Iglesia de La Florida, right here in Santiago. In fact La Florida is the area where the Swans live, and the church was once the Swans church, and the Sheads (other CMS missionaries with the CEP) are currently attending there (guess which team I was on).
 
-The week was spent doing walk up evangelism in the malls, puerta a puerta (door to door) and running various activities at the church. Some of the highlights of the mission week were:<ul>
-<li>Getting to know some of the CEP students so much better.</li>
-<li>Seeing a church members get excited about doing mission in their neighbourhood. It was great sitting around after doing door to door around the church a seeing the excitement of each person as they recounted their experience and the enthralled looks of those listening. I've also never seen so many people turn up to a night to be trained (proportionally to the size of the church).</li>
-<li>Being with Tim as he shared the gospel to 8 youths who all said yes when he asked them if they wanted to 'pray the prayer [to become Christians]'. Not sure how serious they were, 'cause I don't remember seeing any of them at the later events.</li>
-<li>Encountering a culture that is so open to talking about Christianity and so willing to hear the gospel of Jesus.</li>
-<li>Latino promptness: the official starting time was 12pm for lunch. Which usually started at 12:30pm when we got access to the church. But everything ran late and things changed all the time.</li>
-<li>Singing so many songs that we sing back in church at home. I have now sung in Spanish 'Wondrous Cross', 'Lord I Life Your Name On High', 'Shout to the Lord' and 'One Way' amongst others.</li>
-<li>Experiencing a Chileano barbecue. Australians are really quite unsophisticated in our approach. We put meat on. It cooks. We eat. Usually with condiments (which here are done so much better too). Aussie males who care to go that one step further are few and far between. Here barbecues are over coals, and the usually exists one guy in the group capable of turning ordinary meat into something extraordinary.</li>
-<li>Flickyman</li>
-</ul>
+The week was spent doing walk up evangelism in the malls, puerta a puerta (door to door) and running various activities at the church. Some of the highlights of the mission week were:
+
+ - Getting to know some of the CEP students so much better.
+ - Seeing a church members get excited about doing mission in their neighbourhood. It was great sitting around after doing door to door around the church a seeing the excitement of each person as they recounted their experience and the enthralled looks of those listening. I've also never seen so many people turn up to a night to be trained (proportionally to the size of the church).
+ - Being with Tim as he shared the gospel to 8 youths who all said yes when he asked them if they wanted to 'pray the prayer [to become Christians]'. Not sure how serious they were, 'cause I don't remember seeing any of them at the later events.
+ - Encountering a culture that is so open to talking about Christianity and so willing to hear the gospel of Jesus.
+ - Latino promptness: the official starting time was 12pm for lunch. Which usually started at 12:30pm when we got access to the church. But everything ran late and things changed all the time.
+ - Singing so many songs that we sing back in church at home. I have now sung in Spanish 'Wondrous Cross', 'Lord I Life Your Name On High', 'Shout to the Lord' and 'One Way' amongst others.
+ - Experiencing a Chileano barbecue. Australians are really quite unsophisticated in our approach. We put meat on. It cooks. We eat. Usually with condiments (which here are done so much better too). Aussie males who care to go that one step further are few and far between. Here barbecues are over coals, and the usually exists one guy in the group capable of turning ordinary meat into something extraordinary.
+ - Flickyman
+
 I'm sure there are many other highlights, but I think I'll leave it at that for now.
 
 Other than that the last few days have been fairly low key, with the exception of a handful of birthdays amongst the CEP students and their children. Birthdays, if it's a bloke, will usually involve the Chileano equivalent to punches - having a group of friends hold the arms and legs and toss them up in the for the number of years they turned. Which for Gerardo today was more than the guys throwing him could endure.
