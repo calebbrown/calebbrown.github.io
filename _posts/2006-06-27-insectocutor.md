@@ -11,4 +11,4 @@ After all these years, I've finally got around to putting <i>The Insectocutor</i
 
 Enjoy.
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/n8dk4jiypbg"></param><embed src="http://www.youtube.com/v/n8dk4jiypbg" type="application/x-shockwave-flash" width="425" height="350"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n8dk4jiypbg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -11,10 +11,8 @@ I was driving to work today and I was again impressed with the quality of work b
 
 One of the programmable overhead signs read as follows:
 
-<blockquote>
-ACCIDENT AHEAD, LANE CLOSED
-PREPARE TO MERGE
->>>>>>>>LEFT>>>>>>>>
-</blockquote>
+> ACCIDENT AHEAD, LANE CLOSED  
+> PREPARE TO MERGE  
+> >>>>>>>>LEFT>>>>>>>>
 
 Obviously they were thinking of the other left.
