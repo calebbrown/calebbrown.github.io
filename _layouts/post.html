@@ -7,7 +7,7 @@ layout: default
     <header class="page-header">
       <h1><span property="headline">{{ page.title }}</span>
       <small property="dateCreated" content="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%e %B %Y") }}</small></h1>
-      {% if page.tags %}<p>{% for tag in page.tags %}<a class="label" href="/blog/channel/{{ tag }}">{{ tag | capitalize }}</a>{% endfor %}</p>{% endif %}
+      {% if page.tags %}<p>{% for tag in page.tags %}<span class="label">{{ tag | capitalize }}</span>{% endfor %}</p>{% endif %}
     </header>
 
     <div property="articleBody">
