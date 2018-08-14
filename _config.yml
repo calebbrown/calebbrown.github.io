@@ -1,6 +1,7 @@
 title: calebbrown.id.au
 author: Caleb Brown
 excerpt_separator: <!--break-->
+permalink: /blog/:title
 defaults:
  - scope:
     path: "static"
