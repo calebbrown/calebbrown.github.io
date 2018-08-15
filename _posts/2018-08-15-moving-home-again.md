@@ -13,7 +13,7 @@ I have now moved it to [GitHub pages](https://pages.github.com/) and
 I now say "goodbye" to [Webfaction](https://www.webfaction.com) who have served
 me well for many years.
 
-<!-- break -->
+<!--break-->
 There are a few reasons for deciding to move.
 
 Firstly, I don't want the complexity of maintaining a hosting service and
