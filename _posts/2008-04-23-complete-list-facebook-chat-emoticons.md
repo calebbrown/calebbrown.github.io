@@ -5,6 +5,8 @@ tags: legacy
 redirect_from:
  - /blog/2008/04/complete-list-facebook-chat-emoticons
  - /blog/complete-list-facebook-chat-emoticons
+ - /blog/2008/04/complete-list-facebook-chat-emoticons/
+ - /blog/complete-list-facebook-chat-emoticons/
 ---
 
 While playing with Facebook Chat I wondered if it supported emoticons. Turns out it does. But when I tried the &gt;:-) emoticon (a 'devil') and saw it printed as boring text, I wondered, "what smilies does facebook actually support?"
