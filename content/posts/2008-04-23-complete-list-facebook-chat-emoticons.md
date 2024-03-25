@@ -78,10 +78,10 @@ So with the help of Safari and some javascript hacking I present to you a comple
 {{<inTextImg url="/static/media/images/fb_emotes/fb_curlylips.png" height="" alt="">}} curly lips
 :   :3
 
-{{<inTextImg url="http://static.ak.fbcdn.net/images/emote/robot.gif" height="" alt="">}} robot
+{{<inTextImg url="/static/media/images/fb_emotes/fb_robot.gif" height="" alt="">}} robot
 :   :|]
 
-{{<inTextImg url="http://static.ak.fbcdn.net/images/emote/putnam.gif" height="" alt="">}} Chris Putnam
+{{<inTextImg url="/static/media/images/fb_emotes/fb_putnam.gif" height="" alt="">}} Chris Putnam
 :   :putnam:
 
 {{<inTextImg url="/static/media/images/fb_emotes/fb_shark.gif" height="" alt="">}} Shark
@@ -90,7 +90,7 @@ So with the help of Safari and some javascript hacking I present to you a comple
 {{<inTextImg url="/static/media/images/fb_emotes/fb_penguin.gif" height="" alt="">}} Penguin
 :   &lt;(")<
 
-{{<inTextImg url="http://static.ak.fbcdn.net/images/emote/42.gif" height="" alt="">}} 42
+{{<inTextImg url="/static/media/images/fb_emotes/fb_42.gif" height="" alt="">}} 42
 :   :42:
 
 {{<inTextImg url="/static/media/images/fb_emotes/fb_thumb.png" height="" alt="">}} Thumb
