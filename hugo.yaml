@@ -1,0 +1,69 @@
+baseURL: https://example.org/
+languageCode: en-au
+title: 'calebbrown.id.au'
+copyright: "&copy; Copyright {year}, Caleb Brown"
+theme: ["PaperMod"]
+paginate: 10
+enableEmoji: true
+
+permalinks:
+  page:
+    posts: /posts/:year/:month/:slug/
+  section:
+    posts: /posts/
+
+
+params:
+  author: Caleb Brown
+  DateFormat: "2 January 2006"
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  hidemeta: false
+
+  label:
+    icon: /icons/apple-touch-icon.png
+    iconHeight: 35
+
+  assets:
+    favicon: "/icons/favicon.ico"
+    favicon16x16: "/icons/favicon-16x16.png"
+    favicon32x32: "/icons/favicon-32x32.png"
+    apple_touch_icon: "/icons/apple-touch-icon.png"
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/calebbrown"
+    - name: github
+      url: "https://github.com/calebbrown"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/calebbrown0/"
+    - name: rss
+      url: '/index.xml'
+
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: posts 
+      name: posts 
+      url: /posts/
+      weight: 30
+    - identifier: feedback
+      name: feedback
+      url: /feedback/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
