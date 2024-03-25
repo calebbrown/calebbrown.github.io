@@ -19,7 +19,6 @@ The nuke calculator as promised. I'm not sure what range the values are reasonab
 <!--
 calc = buildCalculator();
 document.getElementById('nukeInsert').innerHTML = calc;
-
 startCalculator();
 //-->
 </script>
