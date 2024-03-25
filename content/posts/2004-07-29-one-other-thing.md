@@ -18,4 +18,4 @@ I swear I set them to PM.
 I think they have [gremlins](http://www.imdb.com/title/tt0087363/).
 Or maybe I've been mixing 24 hour time, which is far superior, with their 12 hour format.
 
-In any case the problem has been fixed. And for those who like aggregators try [this link](/index.xml).
+In any case the problem has been fixed. And for those who like aggregators try [this link](/feed.xml).
