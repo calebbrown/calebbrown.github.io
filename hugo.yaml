@@ -67,3 +67,9 @@ markup:
     parser:
       attribute:
         block: true
+
+# Preserve the legacy feed name
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"
